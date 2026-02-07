@@ -95,7 +95,7 @@ Features **semantic search, natural language querying, and context-aware insight
 An AI-powered medical chatbot that delivers **accurate, context-aware responses** using Retrieval-Augmented Generation.  
 Designed to handle prompt orchestration, vector search, and reliable information retrieval.
 
-🔗 **Repo:** https://github.com/pandeyadarsh2503/MediCare-AI
+🔗 **Repo:** https://github.com/pandeyadarsh2503/Medical-Chatbot-Project
 
 ---
 
@@ -103,7 +103,7 @@ Designed to handle prompt orchestration, vector search, and reliable information
 **Tech:** Python, PyTorch, TensorFlow, OpenCV  
 A deep learning–based computer vision system that detects **suspicious activity in retail environments** using video surveillance data.
 
-🔗 **Repo:** https://github.com/pandeyadarsh2503/Shoplifting-Detection
+🔗 **Repo:** https://github.com/pandeyadarsh2503/Shoplifting-Detection-Project
 
 ---
 
