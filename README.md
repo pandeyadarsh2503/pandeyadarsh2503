@@ -1,162 +1,156 @@
-# 👋 Hi, I'm Adarsh Pandey
+# Adarsh Pandey
 
-## 🚀 AI/ML Engineer | Backend Developer | Agentic AI Builder
+## AI/ML Engineer | Backend Developer | Agentic AI Systems
 
-I'm a B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning at Bennett University.
+I am a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at Bennett University.
 
-I enjoy building production-oriented AI systems that combine LLMs, AI Agents, RAG pipelines, Computer Vision, and scalable backend infrastructure.
+My work focuses on building production-oriented AI systems involving Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Computer Vision, and scalable backend infrastructure.
 
-My interests lie at the intersection of:
-
+Areas of Interest:
 - Generative AI
 - Agentic AI Systems
 - Backend Engineering
 - Real-Time AI Applications
-- NLP & Retrieval Systems
+- Natural Language Processing
+- Retrieval Systems
 - Intelligent Automation
 
-Currently exploring:
+Current Focus:
 - Multi-Agent Systems
 - LangGraph Workflows
 - AI Evaluation Frameworks
-- Memory & Tool-Calling Architectures
+- Memory Architectures
+- Tool Calling Systems
 - Low-Latency Voice AI
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
-📧 Email: pandeyadarsh2503@gmail.com
+Email: pandeyadarsh2503@gmail.com
 
-💼 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/adarsh-pandey-37329b28a
 
-🐙 GitHub:
+GitHub:
 https://github.com/pandeyadarsh2503
 
 ---
 
-# 💻 Tech Stack
+## Technical Skills
 
-### Languages
+### Programming Languages
 
-Python • C++ • Java • JavaScript
+Python, C++, Java, JavaScript
 
-### Backend & Development
+### Backend and Development
 
-FastAPI • Node.js • React.js • Next.js • Flutter • WebSockets • REST APIs
+FastAPI, Node.js, React.js, Next.js, Flutter, WebSockets, REST APIs
 
-### AI / ML
+### Artificial Intelligence and Machine Learning
 
-LLMs • RAG • LangChain • LangGraph • NLP • Deep Learning • TensorFlow • Keras • Computer Vision • AI Agents • Prompt Engineering
+Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Natural Language Processing, Deep Learning, TensorFlow, Keras, Computer Vision, Prompt Engineering, AI Agents
 
 ### Databases
 
-PostgreSQL • MongoDB • ChromaDB • MySQL • Redis
+PostgreSQL, MongoDB, ChromaDB, MySQL, Redis
 
-### Cloud & DevOps
+### Cloud and DevOps
 
-AWS (EC2, S3, RDS, DynamoDB, SageMaker) • Docker
+AWS (EC2, S3, RDS, DynamoDB, SageMaker), Docker
 
 ### Tools
 
-Git • GitHub • Postman • Jupyter Notebook • Google Colab • VS Code • n8n
+Git, GitHub, Postman, Jupyter Notebook, Google Colab, Visual Studio Code, n8n
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🎙️ SwasthyaAI — Real-Time Multilingual Voice AI Agent
+### SwasthyaAI — Real-Time Multilingual Voice AI Agent
 
-**Tech Stack:**
-Python • FastAPI • Redis • WebRTC • Whisper • LLaMA-3 70B • Azure TTS • SQLite
+**Tech Stack:** Python, FastAPI, Redis, WebRTC, Whisper, LLaMA-3 70B, Azure TTS, SQLite
 
-### Highlights
-
-- Built multilingual Voice AI supporting 3 languages
-- Optimized architecture for <450ms speech-to-first-response latency
-- Developed memory-aware conversations using Redis
-- Implemented tool-calling workflows and appointment scheduling
-- Designed backend with 18+ FastAPI endpoints supporting concurrent users
+Key Contributions:
+- Built a multilingual Voice AI system supporting three languages.
+- Optimized architecture targeting sub-450ms speech-to-first-response latency.
+- Developed memory-aware conversational workflows using Redis.
+- Implemented tool-calling workflows and appointment scheduling capabilities.
+- Designed and developed backend infrastructure with 18+ FastAPI endpoints supporting concurrent users.
 
 ---
 
-## 🌊 NeerSense — Agentic AI Oceanographic Analytics Platform
+### NeerSense — Agentic AI Oceanographic Analytics Platform
 
-**Tech Stack:**
-Next.js • TypeScript • FastAPI • PostgreSQL • ChromaDB • Gemini AI • Sentence Transformers
+**Tech Stack:** Next.js, TypeScript, FastAPI, PostgreSQL, ChromaDB, Gemini AI, Sentence Transformers
 
-### Highlights
+Key Contributions:
+- Processed and analyzed more than 70 million ARGO oceanographic records.
+- Developed an Agentic RAG pipeline for natural language exploration of ocean datasets.
+- Reduced retrieval time by approximately 85% through optimized retrieval architecture.
+- Built geospatial analytics dashboards for oceanographic visualization.
+- Enabled semantic search and context-aware querying over large-scale scientific datasets.
 
-- Processed 7Cr+ ARGO oceanographic records
-- Built Agentic RAG pipeline for natural language querying
-- Reduced retrieval time by 85%
-- Developed geospatial analytics dashboards
-- Enabled semantic search across large-scale ocean datasets
-
-🔗 Repo:
+Repository:
 https://github.com/pandeyadarsh2503/NeerSense
 
 ---
 
-## 👵 SAHARA — Real-Time Elderly Monitoring & Assistive AI System
+### SAHARA — Real-Time Elderly Monitoring and Assistive AI System
 
-**Tech Stack:**
-React • Express.js • MongoDB • Python • MediaPipe • FastAPI • Twilio
+**Tech Stack:** React.js, Express.js, MongoDB, Python, MediaPipe, FastAPI, Twilio
 
-### Highlights
-
-- Achieved 89% real-time fall detection accuracy
-- Built OCR-powered prescription digitization pipeline
-- Automated emergency notifications for caregivers
-- Implemented medication reminders and monitoring workflows
+Key Contributions:
+- Achieved 89% real-time fall detection accuracy.
+- Developed OCR-based prescription digitization workflows.
+- Implemented automated emergency notification systems for caregivers.
+- Built medication reminder and elderly monitoring functionalities.
 
 ---
 
-## 🩺 MediCare AI — Medical Chatbot
+### MediCare AI — Medical Chatbot
 
-**Tech Stack:**
-LangChain • Pinecone • Flask • React.js • AWS
+**Tech Stack:** LangChain, Pinecone, Flask, React.js, AWS
 
-### Highlights
+Key Contributions:
+- Developed a Retrieval-Augmented Generation-based healthcare chatbot.
+- Implemented vector search and semantic retrieval pipelines.
+- Designed conversational workflows for healthcare assistance.
 
-- Built RAG-powered healthcare chatbot
-- Implemented vector search and semantic retrieval
-- Designed conversational workflows for medical assistance
-
-🔗 Repo:
+Repository:
 https://github.com/pandeyadarsh2503/Medical-Chatbot-Project
 
 ---
 
-# 💼 Experience
+## Professional Experience
 
-## AI/ML Intern | Mirai School of Technology
+### AI/ML Intern
+Mirai School of Technology | July 2025 – August 2025
 
-- Built ML, NLP, and automation pipelines
-- Worked with LangChain, TensorFlow, Prompt Engineering, and n8n
-- Developed real-time AI Travel Itinerary Planner using LLMs and WebSockets
+- Developed machine learning, NLP, and automation pipelines using Python, TensorFlow, LangChain, and n8n.
+- Worked on prompt engineering and AI workflow orchestration.
+- Built a real-time AI travel itinerary planner using React, WebSockets, and LLM integrations.
+
+### Android Developer
+Vaishali Tech | July 2025 – October 2025
+
+- Developed a Flutter-based laundry service application.
+- Implemented REST API integrations and scalable mobile workflows.
+- Optimized application performance and deployment readiness.
 
 ---
 
-## Android Developer | Vaishali Tech
-
-- Developed Flutter-based laundry service application
-- Built scalable mobile workflows and API integrations
-- Worked on production-ready deployment and optimization
-
----
-
-# 📊 Current Focus
+## Current Research and Development Interests
 
 - Agentic AI Systems
+- Multi-Agent Orchestration
 - Real-Time Voice AI
 - AI Infrastructure
-- Multi-Agent Orchestration
-- LangGraph
-- Retrieval Systems
+- LangGraph Workflows
+- Retrieval-Augmented Generation
+- AI Evaluation and Observability
 - Backend Engineering
 
 ---
 
-⭐ Building AI systems that do more than generate text — systems that reason, remember, retrieve, and act.
+Building AI systems that combine reasoning, memory, retrieval, and execution to solve real-world problems at scale.
