@@ -94,6 +94,9 @@ I enjoy solving complex engineering problems and building systems that combine r
 - Implemented tool-calling workflows and intelligent scheduling.
 - Designed backend infrastructure with 18+ FastAPI endpoints supporting concurrent users.
 
+**Repository:**  
+https://github.com/pandeyadarsh2503/Real-Time-Multilingual-Voice-AI-Agent
+
 ---
 
 ### NeerSense — Agentic AI Oceanographic Analytics Platform
@@ -119,6 +122,9 @@ https://github.com/pandeyadarsh2503/NeerSense
 - Developed OCR-powered prescription digitization workflows.
 - Implemented automated emergency alert systems.
 - Built medication reminder and monitoring functionalities.
+
+**Repository:**  
+https://github.com/pandeyadarsh2503/Sahara--Senior-Citizen-Companion-Webapp
 
 ---
 
