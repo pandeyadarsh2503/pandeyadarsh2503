@@ -128,19 +128,6 @@ https://github.com/pandeyadarsh2503/Sahara--Senior-Citizen-Companion-Webapp
 
 ---
 
-### MediCare AI — LLM-Powered Medical Chatbot
-
-**Tech Stack:** LangChain, Pinecone, Flask, React.js, AWS
-
-- Developed a Retrieval-Augmented Generation based healthcare chatbot.
-- Implemented vector search and semantic retrieval pipelines.
-- Designed conversational workflows for medical assistance.
-
-**Repository:**  
-https://github.com/pandeyadarsh2503/Medical-Chatbot-Project
-
----
-
 ## Professional Experience
 
 ### AI/ML Intern | Mirai School of Technology
